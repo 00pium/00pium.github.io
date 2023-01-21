@@ -44,7 +44,7 @@ Made : 1/20/23
 </tr>
 <tr>
 <td>Teen X</td>
-<td><h1>No</h1></td>
+<td><h1>Yes</h1></td>
 </tr>
 <tr>
 <td>Barbie Boy</td>
