@@ -24,15 +24,15 @@ Made : 1/20/23
 <tbody>
 <tr>
 <td>Xtended</td>
-<td><h1>No</h1></td>
+<td><h1>Yes</h1></td>
 </tr>
 <tr>
 <td>X</td>
-<td><h1>No</h1></td>
+<td><h1>Yes</h1></td>
 </tr>
 <tr>
 <td>Teen Bean</td>
-<td><h1>No</h1></td>
+<td><h1>Yes</h1></td>
 </tr>
 <tr>
 <td>Project X</td>
