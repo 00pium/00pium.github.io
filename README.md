@@ -10,4 +10,4 @@ Finish albums (Unlock It, Miss The Rage, Whole Lotta Red, @ MEH, Paid In Full, D
 
 Complete Playboi Carti's profile.
 
-Made : 1/20/23
+Made : 1/20/23 (Month, Day, Year)
